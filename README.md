@@ -1,2 +1,2 @@
 # day-1
-can be optional
+this is the first time we are doing projects. use this by clicking on it. 
